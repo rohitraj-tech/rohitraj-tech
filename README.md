@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rohit Raj<br><br>💻 Software Developer focused on building scalable web applications using the MERN stack.<br>🧠 Strong in DSA & problem-solving with C++ — actively preparing for product-based company interviews.<br><br>🚀 Currently working on real-world projects like SaaS dashboards, cloud-integrated apps, and system-design-oriented features.<br>📈 I believe in writing clean, readable code and improving through consistent practice and code reviews.<br><br>📌 Actively learning: System Design, Advanced DSA, and Backend Architecture.<br>
+👋 Hi, I'm Rohit Raj<br><br>💻 Software Developer focused on building scalable web applications using the MERN stack.<br>🧠 Strong in DSA & problem-solving with C++ actively preparing for product-based company interviews.<br><br>🚀 Currently working on real-world projects like SaaS dashboards, cloud-integrated apps, and system-design-oriented features.<br>📈 I believe in writing clean, readable code and improving through consistent practice and code reviews.<br><br>📌 Actively learning: System Design, Advanced DSA, and Backend Architecture.<br>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
